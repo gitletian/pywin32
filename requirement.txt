@@ -1,0 +1,7 @@
+python==2.7
+
+pyHook==1.5.1
+PyMouse==1.0
+pyperclip==1.7.0
+pywin32==224
+
